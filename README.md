@@ -1,5 +1,4 @@
-# DeepLearning-HW1
-This Repository is done for home work Regarding deep learning Assignment.
+# DeepLearning
 All the files in the repository are (.ipynb) files that contain python code snippets and results of executing the code in a sequential manner.
 These files contains code related which I had worked on deep learning.
 #all these code files can be run on jupiternotebook and also Anaconda must be installed before using jupiternotebook.
